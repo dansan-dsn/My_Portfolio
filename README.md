@@ -8,8 +8,6 @@ Welcome to my portfolio! This project showcases my skills and projects developed
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
